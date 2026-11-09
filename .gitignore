@@ -21,3 +21,7 @@ Thumbs.db
 *.log
 # Unreal Engine cache
 *.bin
+/Content/BackrUms/Characters/Anakin/Richard+choque__1_/SkeletalMeshes/Richard+choque__1_.uasset
+/Content/BackrUms/Characters/Richard/richard+choque/SkeletalMeshes/richard+choque.uasset
+Tools/__pycache__/
+*.pyc
